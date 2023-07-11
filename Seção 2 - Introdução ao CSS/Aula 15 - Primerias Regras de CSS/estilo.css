@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    font-size: 54px;
+}
+
+h2 {
+    font-size: 48px;
+    font-style: italic;
+}
+
+h3 {
+    font-size: 38px;
+    text-transform: capitalize;
+    text-align: right;
+    text-decoration: underline;
+}
+
+p {
+    text-indent: 28px;
+    text-align: left;
+    /*color: #0000ff;*/
+    font-variant: small-caps;
+
+}
+
+a {
+    text-decoration: none;
+}
