@@ -1,0 +1,7 @@
+A propriedade border pode ser:
+
+border-width: 5px;
+border-style: dotted;
+border-color: red;
+
+h1{border: 5px dotted red;}
