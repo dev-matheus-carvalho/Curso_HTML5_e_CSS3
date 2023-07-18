@@ -1,0 +1,58 @@
+body{
+    font-family: sans-serif;
+    background-color: rgba(255, 255, 255, 0.529);
+}
+
+.nome{
+    background-color: rgba(0, 0, 255, 0.769);
+    color: rgb(255, 254, 254);
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black ;
+}
+
+.subtitulo{
+    color: rgba(0, 0, 0, 0.906);
+    width: 50%;
+    margin: 5px auto auto auto;
+    text-align: center;
+}
+
+.topicos{
+    background-color: aqua;
+    color: rgb(71, 61, 61);
+    margin-bottom: 5px;
+    width: 99%;
+    text-align: justify;
+    padding: 2px 0 2px 15px;
+    border-width: 3px;
+    border-style: groove;
+    border-bottom-color: rgb(127, 127, 70);
+}
+
+.tamanhop{
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.supera{
+    color: blue;
+    text-decoration: none;
+}
+
+.supera:hover{
+    color: rgba(0, 0, 255, 0.226);
+}
+
+.supera:active{
+    color: black;
+}
+
+h4{
+    margin-top: 0px;
+}
+
+h5{
+    font-size: 15px;
+}
