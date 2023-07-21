@@ -1,0 +1,3 @@
+A aula fala sobre a diferença de colocar apenas background
+e quando especificamos. É sempre recomendado especificar o
+o background com suas propriedades.
